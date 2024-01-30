@@ -1,2 +1,4 @@
 # ISIT2024
-Generalization of LiNGAM that allows confounding
+A paper submitted to ISIT 2024
+Title: Generalization of LiNGAM that allows confounding
+Author: Joe Suzuki and Tian-Le Yang
